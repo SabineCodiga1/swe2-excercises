@@ -38,7 +38,8 @@ public class MathUtils {
      * @return the multiplication of a and b
      */
     public double multiplication(double a, double b) {
-        return a * b;
+        double result = a*b;
+        return result;
     }
 
     /**
@@ -46,10 +47,13 @@ public class MathUtils {
      * @param b divisor
      * @return the quotient of a and b
      */
-    public double division(double a, double b) {
+    public double division(double a, double b) throws Exception {
+
+        if (b == 0){
+            throw new Exception("Dividor is 0");
+        }
+
         return a / b;
     }
-
-
 }
 

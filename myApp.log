@@ -1,0 +1,11 @@
+2021-09-23 21:09:19,841 DEBUG [main] c.j.l.Bank [Bank.java:48] Balance2300.0
+2021-09-23 21:09:19,865 DEBUG [main] c.j.l.Bank [Bank.java:50] Balance set to2067.0
+2021-09-23 21:10:30,292 DEBUG [main] c.j.l.Bank [Bank.java:48] Balance4300.0
+2021-09-23 21:10:30,293 DEBUG [main] c.j.l.Bank [Bank.java:50] Balance set to4067.0
+2021-09-23 21:11:46,332 DEBUG [main] c.j.l.Bank [Bank.java:48] Balance2300.0
+2021-09-23 21:11:46,344 DEBUG [main] c.j.l.Bank [Bank.java:50] Balance set to2067.0
+2021-09-23 21:13:04,537 DEBUG [main] c.j.l.Bank [Bank.java:48] init. Balance 2300.0
+2021-09-23 21:13:04,545 DEBUG [main] c.j.l.Bank [Bank.java:50] Withdraw of 233.0. Balance set to 2067.0
+2021-09-23 21:14:26,536 DEBUG [main] c.j.l.Bank [Bank.java:56] init. Balance 2300.0
+2021-09-23 21:14:26,568 DEBUG [main] c.j.l.Bank [Bank.java:58] Deposit of 2000.0. Balance set to 4300.0
+2021-09-23 21:15:53,823 DEBUG [main] c.j.l.Bank [Bank.java:67] Current Balance is 2300.0
